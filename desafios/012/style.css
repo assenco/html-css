@@ -1,0 +1,47 @@
+@charset "UTF-8";
+
+body{
+    margin: 0px;
+}
+.cabecalho {
+    background-color: #000000;
+    color: aliceblue;
+    text-align: center;
+    height: 200px;
+}
+p {
+    font-family: "Sriracha", cursive;
+    font-size: 18px;
+    line-height: 2;
+    margin: 20px;
+    height: 400px;
+}
+
+.p1, .p3 {
+    color: rgb(0, 0, 0);
+    background-color: white;
+}
+
+.p2 {
+    background-image: url(pacote-d012/imagens/background001.jpg);
+    background-size: 100% 100%;
+    height: 96vh;
+    padding: 10px;
+    position: relative;
+}
+
+.p4 {
+    background-image: url(pacote-d012/imagens/background002.jpg);
+    background-size: 100% 100%;
+    height: 96vh;
+    padding: 10px;
+    position: relative;
+
+}
+
+.rodape{
+    background-color: #000000;/*
+    color: aliceblue;
+    text-align: center;*/
+}
+
